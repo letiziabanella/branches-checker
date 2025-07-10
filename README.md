@@ -1,7 +1,7 @@
 ## Project name
 Branches-checker
 ## Objective:
-Build a Node.js script to identify all stale branches (no commits in the last 30 days) across multiple repositories within a GitHub organization.
+Build a Node.js script to identify all stale branches (no commits in the last 30 days) across multiple repositories within a GitHub organization
 ## Features
 1. Scans all repositories within a specified GitHub organization.
 2. Lists all non-default branches, excluding main and master.
